@@ -2,7 +2,7 @@
 // IMPORTS //
 /////////////
 import "./app.scss";
-import Navbar from "./components/Navbar.jsx";
+import Navbar from "./components/navbar/Navbar.jsx";
 
 const App = () => {
   return <div>
